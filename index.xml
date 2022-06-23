@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Julien Gustin</title>
-    <link>https://juliengustin.github.io/</link>
+    <link>https://julien-gustin.github.io/</link>
     <description>Recent content on Julien Gustin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://juliengustin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://julien-gustin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://juliengustin.github.io/post/cv/</link>
+      <link>https://julien-gustin.github.io/post/cv/</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://juliengustin.github.io/post/cv/</guid>
+      <guid>https://julien-gustin.github.io/post/cv/</guid>
       <description>CV
 About me My name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at @Uliege in Belgium. I am passionate about AI and more mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing.
 Education MSc. in Data Science | University of Liege 2021 - 2023 BSc. in Computer Science | University of Liege 2018 - 2021 Projects Image colorization Given a grayscale image, we automatically colorize it without any user input.</description>
@@ -20,28 +20,28 @@ Education MSc. in Data Science | University of Liege 2021 - 2023 BSc. in Compute
     
     <item>
       <title></title>
-      <link>https://juliengustin.github.io/search/placeholder/</link>
+      <link>https://julien-gustin.github.io/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juliengustin.github.io/search/placeholder/</guid>
+      <guid>https://julien-gustin.github.io/search/placeholder/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://juliengustin.github.io/top/about/</link>
+      <link>https://julien-gustin.github.io/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juliengustin.github.io/top/about/</guid>
+      <guid>https://julien-gustin.github.io/top/about/</guid>
       <description>About Hi, my name is Julien Gustin I am 22 and I am currently pursuing master studies in Data Science at @Uliege in Belgium. I am passionate about AI and more mostly about deep learning, during my free time I like photographie, traveling, hiking and climbing.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://juliengustin.github.io/top/photo/</link>
+      <link>https://julien-gustin.github.io/top/photo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://juliengustin.github.io/top/photo/</guid>
+      <guid>https://julien-gustin.github.io/top/photo/</guid>
       <description>2021 Sweden Belgium 2020 Belgium France 2019 France Belgium Amsterdam 2018 </description>
     </item>
     
